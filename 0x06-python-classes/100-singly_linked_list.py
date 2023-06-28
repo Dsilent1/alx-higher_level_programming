@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Must define classes for a singly-linked list."""
 
 
@@ -77,4 +78,3 @@ class SinglyLinkedList:
             values.append(str(tmp.data))
             tmp = tmp.next_node
         return ('\n'.join(values))
-
