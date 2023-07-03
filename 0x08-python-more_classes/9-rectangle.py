@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-It is a Rectangle Class with public class attributes, private instance attributes
+a Rectangle Class with public class attributes, private instance attributes
 (width, height), public methods, special methods,
 static methods and class methods
 """
