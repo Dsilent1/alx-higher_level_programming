@@ -1,6 +1,6 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 """
-It is the "0-add_integer" module.
+It is the "Task 0" module.
 The 0-add_integer module supplies one function, add_integer(a, b).
 """
 
